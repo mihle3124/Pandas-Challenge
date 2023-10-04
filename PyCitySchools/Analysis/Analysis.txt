@@ -1,9 +1,12 @@
-# Pandas-Challenge
-
 In this analysis, we are using looking into students' math scores and readings scores based on the given school information. Using Pandas and Jupyter Notebook, we are able to merge together the two CSV files, school_complete.csv and students_complete.csv. In doing so, we are able to connect the files by the column they both have in common, school names. With the merged files, we are able to evaluate the Distric Summary, School Summary, Highest_Performing School, Bottom Performing School, Math/Reading Scores by Grades, Scores by School Spending, Scores by School Size, and Scores by School Type.
 
 Below is the conclusion to the analysis:
 
+
+
+Disctrict Summary: sample size
+	Total Schools	Total Students	Total Budget	   Average Math Score	  Average Reading Score	   % Passing Math	% Passing Reading	% Overall Passing
+	15		39,170		$24,649,428.00	    78.985371			81.87784	    74.980853		 85.805463		65.172326
 
 
 
